@@ -1,0 +1,15 @@
+Screen {
+    align: center middle;
+    background: #5F13BD;
+}
+#game_pin_input {
+    width: 45;
+    text-style: bold;
+    text-align: right;
+    color: black;
+    border: grey;
+    background: white;
+}
+#land_label {
+    text-style: bold;
+}
